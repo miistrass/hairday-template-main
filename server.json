@@ -1,3 +1,9 @@
 {
-    "schedules": []
+  "schedules": [
+    {
+      "id": 1738368187639,
+      "name": "Milena Strassburger",
+      "when": "2025-02-03T13:00:00.000Z"
+    }
+  ]
 }
